@@ -1,0 +1,9 @@
+0fa33812d3ba1755e7869a1037a1ba2a *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+2907edd54ea8fd6c6c2318ee3236409e *R/nfca.r
+42f10f978ef189e2e52a8f09b590c56e *data/nfca_example.RData
+8b0b7e70a9eea82eb695dd2112ad4352 *exec/multistagefca.rb
+115d705c839831d5b89b36f7b2f74dd7 *inst/extdata/graph0.txt
+0ac09f6d9d535b784fed4a5a4ed7ff11 *inst/extdata/graph00.txt
+4de3161f6bd9742ca52f6b9889d0babd *man/nfca.Rd
+0dabab2b637fbb3bd7146ee44a137a19 *man/nfca_example.rd

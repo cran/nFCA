@@ -1,0 +1,2 @@
+digraph family {
+	size="10,10";
